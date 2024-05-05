@@ -1,1 +1,1 @@
-ReactDOM.render(<h1>Hello, React!</h1>, document.getElementById('root'))
+ReactDOM.render(<h1>Hello, React!</h1><h2>let's do this</h2><p>this is supportive text for the h1, and h2 elements on the page.</p><p>this is all made from react and javascript</p>, document.getElementById('root'))
