@@ -1,0 +1,32 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.page {
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(91, 91, 122);
+  padding: 0 1rem;
+}
+
+.main {
+  padding: 0 1rem;
+  background-color: rgb(171, 147, 194);
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(128, 179, 202);
+  
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  gap: 2rem;
+}
