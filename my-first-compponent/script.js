@@ -7,7 +7,7 @@ function ItsMe() {
       </header>
       <main>
         <h2>this is the main content</h2>
-        <p>this is the first paragraph </p>
+        <p>this is the first paragraph  </p>
         <p>this is the second paragraph</p>
         <p>this is the third paragraph</p>
         <div style={{display: 'flex', justifyContent: 'space-evenly'}}> 
